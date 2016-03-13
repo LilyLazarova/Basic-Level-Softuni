@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\obj\Debug\Problem 8.  Numbers from 1 to n.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 8.  Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.pdb

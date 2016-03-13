@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\bin\Debug\Problem 3 – Summertime for Programmers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\bin\Debug\Problem 3 – Summertime for Programmers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\bin\Debug\Problem 3 – Summertime for Programmers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\obj\Debug\Problem 3 – Summertime for Programmers.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\obj\Debug\Problem 3 – Summertime for Programmers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 3 – Summertime for Programmers\obj\Debug\Problem 3 – Summertime for Programmers.pdb

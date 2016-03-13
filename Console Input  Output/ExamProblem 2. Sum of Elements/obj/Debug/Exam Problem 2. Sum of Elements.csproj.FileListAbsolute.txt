@@ -1,0 +1,3 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\ExamProblem 2. Sum of Elements\bin\Debug\ExamProblem_2.Sum_of_Elements.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\ExamProblem 2. Sum of Elements\obj\Debug\ExamProblem_2.Sum_of_Elements.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\ExamProblem 2. Sum of Elements\obj\Debug\ExamProblem_2.Sum_of_Elements.pdb

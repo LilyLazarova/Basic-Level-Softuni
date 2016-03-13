@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\bin\Debug\Sunlight.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\bin\Debug\Sunlight.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\bin\Debug\Sunlight.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\obj\Debug\Sunlight.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Sunlight\obj\Debug\Sunlight.pdb

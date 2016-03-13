@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\bin\Debug\Problem_10.Beer_Time.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem 10. Beer Time.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem_10.Beer_Time.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 10. Beer Time\obj\Debug\Problem_10.Beer_Time.pdb

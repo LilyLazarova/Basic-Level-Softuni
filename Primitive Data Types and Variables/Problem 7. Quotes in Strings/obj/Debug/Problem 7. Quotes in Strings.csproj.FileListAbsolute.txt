@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\bin\Debug\Problem_7.Quotes_in_Strings.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem 7. Quotes in Strings.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 7. Quotes in Strings\obj\Debug\Problem_7.Quotes_in_Strings.pdb

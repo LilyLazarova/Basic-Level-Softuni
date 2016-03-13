@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\obj\Debug\Problem 2. Bonus Score.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb

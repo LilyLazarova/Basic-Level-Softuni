@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\bin\Debug\King of Thieves.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\bin\Debug\King of Thieves.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\bin\Debug\King of Thieves.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\obj\Debug\King of Thieves.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\obj\Debug\King of Thieves.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\King of Thieves\obj\Debug\King of Thieves.pdb

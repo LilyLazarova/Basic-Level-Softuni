@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\bin\Debug\Print_a_sequence.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\bin\Debug\Print_a_sequence.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\bin\Debug\Print_a_sequence.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\obj\Debug\Print_a_sequence.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\obj\Debug\Print_a_sequence.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Print_a_sequence\obj\Debug\Print_a_sequence.csprojResolveAssemblyReference.cache

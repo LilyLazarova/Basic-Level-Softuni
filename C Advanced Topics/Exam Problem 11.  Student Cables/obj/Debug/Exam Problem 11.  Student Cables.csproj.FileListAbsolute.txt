@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\bin\Debug\Exam_Problem_11.Student_Cables.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\bin\Debug\Exam_Problem_11.Student_Cables.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\bin\Debug\Exam_Problem_11.Student_Cables.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\obj\Debug\Exam Problem 11.  Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\obj\Debug\Exam_Problem_11.Student_Cables.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 11.  Student Cables\obj\Debug\Exam_Problem_11.Student_Cables.pdb

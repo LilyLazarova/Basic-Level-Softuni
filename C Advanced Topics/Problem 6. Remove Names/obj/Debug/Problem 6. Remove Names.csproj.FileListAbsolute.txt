@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\bin\Debug\Problem_6.Remove_Names.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\bin\Debug\Problem_6.Remove_Names.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\bin\Debug\Problem_6.Remove_Names.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\obj\Debug\Problem 6. Remove Names.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\obj\Debug\Problem_6.Remove_Names.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 6. Remove Names\obj\Debug\Problem_6.Remove_Names.pdb

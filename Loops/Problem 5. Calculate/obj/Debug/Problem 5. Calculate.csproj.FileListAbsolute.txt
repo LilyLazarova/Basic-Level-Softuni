@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\bin\Debug\Problem_5.Calculate.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\bin\Debug\Problem_5.Calculate.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\bin\Debug\Problem_5.Calculate.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\obj\Debug\Problem 5. Calculate.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\obj\Debug\Problem_5.Calculate.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 5. Calculate\obj\Debug\Problem_5.Calculate.pdb

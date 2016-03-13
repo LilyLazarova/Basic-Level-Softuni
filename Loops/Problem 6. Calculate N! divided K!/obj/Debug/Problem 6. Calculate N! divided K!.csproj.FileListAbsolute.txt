@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\bin\Debug\Problem_6.Calculate_N__divided_K_.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\bin\Debug\Problem_6.Calculate_N__divided_K_.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\bin\Debug\Problem_6.Calculate_N__divided_K_.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\obj\Debug\Problem 6. Calculate N! divided K!.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\obj\Debug\Problem_6.Calculate_N__divided_K_.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 6. Calculate N! divided K!\obj\Debug\Problem_6.Calculate_N__divided_K_.pdb

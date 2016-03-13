@@ -1,0 +1,25 @@
+C#      C# is an object-oriented, high-level programming language, that is easy to learn and read.
+	Memory management is automatically handled by garbage collector
+
+Java    Java is an object-oriented language created by Sun Microsystem.
+	Differences : 1. Java includes less primitive types and the functionality to catch arithmetic exceptions.
+		     2. Struct concepts are not supported
+	Similarities : 1. C# and Java allow only single inheritance. 
+		       2. Both C# and Java have built-in garbage collection.
+
+C++     C++ is a low level and platform neutral programming language. 
+	Differences with C#: 1. When compiled, C++ code is converted into assembly language code
+			    2. The memory that is allocated in the heap dynamically has to be explicitly deleted
+	Silmilarities to C#:	    basic operators and style
+
+PHP 	PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.
+	Differences with C#: 1. PHP can run on any platform, but C# only on Windows
+			     2. More difficult for debugging than C#
+	 
+
+Python  Python is a high-level, server-side scripting language for websites and mobile apps.It has different sintax and librabries from C# and can be used for cross platform development.
+       Differences with C#: 1. dynamic language
+			    2. Bad garbage collection (GC) implementation
+	Similarities: Availability of open source libraries
+
+

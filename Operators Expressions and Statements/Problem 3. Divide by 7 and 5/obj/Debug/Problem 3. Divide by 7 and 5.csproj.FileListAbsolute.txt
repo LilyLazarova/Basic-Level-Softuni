@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\obj\Debug\Problem 3. Divide by 7 and 5.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.pdb

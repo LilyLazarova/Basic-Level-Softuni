@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem 2. Float or Double.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb

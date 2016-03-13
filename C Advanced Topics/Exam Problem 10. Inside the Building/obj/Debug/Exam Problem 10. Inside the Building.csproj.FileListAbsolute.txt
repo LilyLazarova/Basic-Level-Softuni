@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\bin\Debug\Exam_Problem_10.Inside_the_Building.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\bin\Debug\Exam_Problem_10.Inside_the_Building.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\bin\Debug\Exam_Problem_10.Inside_the_Building.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\obj\Debug\Exam Problem 10. Inside the Building.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\obj\Debug\Exam_Problem_10.Inside_the_Building.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 10. Inside the Building\obj\Debug\Exam_Problem_10.Inside_the_Building.pdb

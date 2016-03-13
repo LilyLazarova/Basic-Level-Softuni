@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\bin\Debug\Problem 1 – Joro the Football Player.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\bin\Debug\Problem 1 – Joro the Football Player.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\bin\Debug\Problem 1 – Joro the Football Player.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\obj\Debug\Exam 1 – Joro the Football Player.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\obj\Debug\Problem 1 – Joro the Football Player.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 1 – Joro the Football Player\obj\Debug\Problem 1 – Joro the Football Player.pdb

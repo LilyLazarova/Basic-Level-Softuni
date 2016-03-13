@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\obj\Debug\Problem 11. Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\obj\Debug\Problem_11.Bank_Account_Data.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 11. Bank Account Data\obj\Debug\Problem_11.Bank_Account_Data.pdb

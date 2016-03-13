@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\bin\Debug\Problem_4.Matrix_of_Palindromes.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\bin\Debug\Problem_4.Matrix_of_Palindromes.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\bin\Debug\Problem_4.Matrix_of_Palindromes.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\obj\Debug\Problem 4. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\obj\Debug\Problem_4.Matrix_of_Palindromes.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 4. Matrix of Palindromes\obj\Debug\Problem_4.Matrix_of_Palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\bin\Debug\BookProblem.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\bin\Debug\BookProblem.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\BookProblem\obj\Debug\BookProblem.pdb

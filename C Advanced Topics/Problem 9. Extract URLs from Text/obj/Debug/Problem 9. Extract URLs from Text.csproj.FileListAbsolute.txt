@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\bin\Debug\Problem_9.Extract_URLs_from_Text.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\bin\Debug\Problem_9.Extract_URLs_from_Text.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\bin\Debug\Problem_9.Extract_URLs_from_Text.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\obj\Debug\Problem 9. Extract URLs from Text.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\obj\Debug\Problem_9.Extract_URLs_from_Text.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 9. Extract URLs from Text\obj\Debug\Problem_9.Extract_URLs_from_Text.pdb

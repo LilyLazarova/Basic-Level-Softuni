@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\bin\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 3. Variable in Hexadecimal Format\obj\Debug\Problem_3.Variable_in_Hexadecimal_Format.pdb

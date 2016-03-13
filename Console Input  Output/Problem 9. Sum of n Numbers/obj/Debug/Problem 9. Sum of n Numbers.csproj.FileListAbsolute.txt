@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 9. Sum of n Numbers\bin\Debug\Problem_9.Sum_of_n_Numbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 9. Sum of n Numbers\obj\Debug\Problem_9.Sum_of_n_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 9. Sum of n Numbers\obj\Debug\Problem_9.Sum_of_n_Numbers.pdb

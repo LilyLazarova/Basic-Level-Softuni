@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\bin\Debug\Problem_10.Point_InsideCircleAndOutsideRectangle.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\bin\Debug\Problem_10.Point_InsideCircleAndOutsideRectangle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\bin\Debug\Problem_10.Point_InsideCircleAndOutsideRectangle.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\obj\Debug\Problem 10. Point InsideCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\obj\Debug\Problem_10.Point_InsideCircleAndOutsideRectangle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 10. Point InsideCircleAndOutsideRectangle\obj\Debug\Problem_10.Point_InsideCircleAndOutsideRectangle.pdb

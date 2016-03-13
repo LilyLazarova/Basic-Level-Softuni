@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\bin\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem 7. Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 7. Sort 3 Numbers with Nested Ifs\obj\Debug\Problem_7.Sort_3_Numbers_with_Nested_Ifs.pdb

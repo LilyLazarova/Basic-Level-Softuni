@@ -1,0 +1,8 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution1\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution1\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution1\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution1\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution1\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb

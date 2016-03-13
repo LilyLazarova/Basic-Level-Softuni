@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\bin\Debug\Exam Problem 16– Magic Dates.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\bin\Debug\Exam Problem 16– Magic Dates.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\bin\Debug\Exam Problem 16– Magic Dates.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\obj\Debug\Exam Problem 16– Magic Dates.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\obj\Debug\Exam Problem 16– Magic Dates.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 16– Magic Dates\obj\Debug\Exam Problem 16– Magic Dates.pdb

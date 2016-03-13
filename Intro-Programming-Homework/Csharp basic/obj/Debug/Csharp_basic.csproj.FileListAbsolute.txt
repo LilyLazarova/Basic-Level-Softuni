@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\bin\Debug\Csharp basic.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\bin\Debug\Csharp basic.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\bin\Debug\Csharp basic.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\obj\Debug\Csharp_basic.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\obj\Debug\Csharp basic.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Csharp basic\obj\Debug\Csharp basic.pdb

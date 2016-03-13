@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\obj\Debug\Problem 12. Falling Rocks.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\obj\Debug\Problem_12.Falling_Rocks.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 12. Falling Rocks\obj\Debug\Problem_12.Falling_Rocks.pdb

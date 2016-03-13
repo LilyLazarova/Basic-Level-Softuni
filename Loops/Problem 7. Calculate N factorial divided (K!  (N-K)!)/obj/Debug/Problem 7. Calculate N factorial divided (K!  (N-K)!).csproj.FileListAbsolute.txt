@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N_factorial_divided__K____N_K___.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N_factorial_divided__K____N_K___.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N_factorial_divided__K____N_K___.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\obj\Debug\Problem 7. Calculate N factorial divided (K!  (N-K)!).csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\obj\Debug\Problem_7.Calculate_N_factorial_divided__K____N_K___.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 7. Calculate N factorial divided (K!  (N-K)!)\obj\Debug\Problem_7.Calculate_N_factorial_divided__K____N_K___.pdb

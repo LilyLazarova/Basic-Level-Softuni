@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\bin\Debug\HorribleCode.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\bin\Debug\HorribleCode.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\bin\Debug\HorribleCode.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\obj\Debug\HorribleCode.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\obj\Debug\HorribleCode.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\HorribleCode\obj\Debug\HorribleCode.pdb

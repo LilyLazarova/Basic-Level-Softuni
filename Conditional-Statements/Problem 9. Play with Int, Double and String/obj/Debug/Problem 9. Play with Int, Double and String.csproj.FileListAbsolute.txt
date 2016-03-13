@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\bin\Debug\Problem_9.Play_with_Int__Double_and_String.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\obj\Debug\Problem 9. Play with Int, Double and String.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 9. Play with Int, Double and String\obj\Debug\Problem_9.Play_with_Int__Double_and_String.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\bin\Debug\Chessboard Game.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\bin\Debug\Chessboard Game.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\bin\Debug\Chessboard Game.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\obj\Debug\Chessboard Game.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\obj\Debug\Chessboard Game.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Chessboard Game\obj\Debug\Chessboard Game.pdb

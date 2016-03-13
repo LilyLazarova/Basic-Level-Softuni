@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

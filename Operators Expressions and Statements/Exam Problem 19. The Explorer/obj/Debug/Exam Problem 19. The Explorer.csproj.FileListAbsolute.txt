@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\bin\Debug\Exam_Problem_19.The_Explorer.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\bin\Debug\Exam_Problem_19.The_Explorer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\bin\Debug\Exam_Problem_19.The_Explorer.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\obj\Debug\Exam Problem 19. The Explorer.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\obj\Debug\Exam_Problem_19.The_Explorer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 19. The Explorer\obj\Debug\Exam_Problem_19.The_Explorer.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\bin\Debug\Problem 1 – Four Factors.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\bin\Debug\Problem 1 – Four Factors.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\bin\Debug\Problem 1 – Four Factors.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\obj\Debug\Problem 1 – Four Factors.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\obj\Debug\Problem 1 – Four Factors.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 1 – Four Factors\obj\Debug\Problem 1 – Four Factors.pdb

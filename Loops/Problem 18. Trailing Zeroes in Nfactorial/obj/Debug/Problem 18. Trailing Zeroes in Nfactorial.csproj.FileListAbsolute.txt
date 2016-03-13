@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\bin\Debug\Problem_18.Trailing_Zeroes_in_Nfactorial.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\obj\Debug\Problem 18. Trailing Zeroes in Nfactorial.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\bin\Debug\Problem_18.Trailing_Zeroes_in_Nfactorial.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\bin\Debug\Problem_18.Trailing_Zeroes_in_Nfactorial.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\obj\Debug\Problem_18.Trailing_Zeroes_in_Nfactorial.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 18. Trailing Zeroes in Nfactorial\obj\Debug\Problem_18.Trailing_Zeroes_in_Nfactorial.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\bin\Debug\Exam Problem 1 Work Hours.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\bin\Debug\Exam Problem 1 Work Hours.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\bin\Debug\Exam Problem 1 Work Hours.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\obj\Debug\Exam Problem 1 Work Hours.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\obj\Debug\Exam Problem 1 Work Hours.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 1 Work Hours\obj\Debug\Exam Problem 1 Work Hours.pdb

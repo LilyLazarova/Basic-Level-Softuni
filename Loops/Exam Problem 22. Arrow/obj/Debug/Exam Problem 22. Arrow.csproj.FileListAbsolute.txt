@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\bin\Debug\Exam_Problem_22.Arrow.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\bin\Debug\Exam_Problem_22.Arrow.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\bin\Debug\Exam_Problem_22.Arrow.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\obj\Debug\Exam Problem 22. Arrow.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\obj\Debug\Exam_Problem_22.Arrow.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 22. Arrow\obj\Debug\Exam_Problem_22.Arrow.pdb

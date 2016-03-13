@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Printfirst_last_name\bin\Debug\Printfirst_last_name.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Printfirst_last_name\bin\Debug\Printfirst_last_name.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Printfirst_last_name\bin\Debug\Printfirst_last_name.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Printfirst_last_name\obj\Debug\Printfirst_last_name.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Printfirst_last_name\obj\Debug\Printfirst_last_name.pdb

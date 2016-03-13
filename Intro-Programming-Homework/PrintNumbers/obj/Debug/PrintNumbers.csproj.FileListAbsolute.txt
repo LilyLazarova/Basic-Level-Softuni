@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\PrintNumbers\obj\Debug\PrintNumbers.pdb

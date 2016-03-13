@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\bin\Debug\Decrypt the message.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\bin\Debug\Decrypt the message.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\bin\Debug\Decrypt the message.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\obj\Debug\Decrypt the message.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\obj\Debug\Decrypt the message.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Decrypt the message\obj\Debug\Decrypt the message.pdb

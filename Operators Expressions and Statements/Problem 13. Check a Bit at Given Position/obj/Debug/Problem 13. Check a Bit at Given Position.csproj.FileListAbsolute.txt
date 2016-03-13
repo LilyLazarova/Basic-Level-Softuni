@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\bin\Debug\Problem_13.Check_a_Bit_at_Given_Position.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\obj\Debug\Problem 13. Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\obj\Debug\Problem_13.Check_a_Bit_at_Given_Position.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 13. Check a Bit at Given Position\obj\Debug\Problem_13.Check_a_Bit_at_Given_Position.pdb

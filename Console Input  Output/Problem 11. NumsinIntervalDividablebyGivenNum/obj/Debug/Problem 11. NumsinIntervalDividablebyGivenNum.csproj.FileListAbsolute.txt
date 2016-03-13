@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\bin\Debug\Problem_11.NumsinIntervalDividablebyGivenNum.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\bin\Debug\Problem_11.NumsinIntervalDividablebyGivenNum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\bin\Debug\Problem_11.NumsinIntervalDividablebyGivenNum.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\obj\Debug\Problem 11. NumsinIntervalDividablebyGivenNum.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\obj\Debug\Problem_11.NumsinIntervalDividablebyGivenNum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 11. NumsinIntervalDividablebyGivenNum\obj\Debug\Problem_11.NumsinIntervalDividablebyGivenNum.pdb

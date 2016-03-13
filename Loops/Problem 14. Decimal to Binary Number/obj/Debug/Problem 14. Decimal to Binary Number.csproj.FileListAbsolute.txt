@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem 14. Decimal to Binary Number.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.pdb

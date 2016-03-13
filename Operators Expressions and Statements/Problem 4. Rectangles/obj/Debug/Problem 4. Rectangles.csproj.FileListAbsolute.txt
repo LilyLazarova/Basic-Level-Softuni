@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\obj\Debug\Problem 4. Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.pdb

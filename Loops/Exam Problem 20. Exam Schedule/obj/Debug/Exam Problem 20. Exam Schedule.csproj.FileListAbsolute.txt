@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\bin\Debug\Exam_Problem_20.Exam_Schedule.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\bin\Debug\Exam_Problem_20.Exam_Schedule.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\bin\Debug\Exam_Problem_20.Exam_Schedule.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\obj\Debug\Exam Problem 20. Exam Schedule.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\obj\Debug\Exam_Problem_20.Exam_Schedule.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 20. Exam Schedule\obj\Debug\Exam_Problem_20.Exam_Schedule.pdb

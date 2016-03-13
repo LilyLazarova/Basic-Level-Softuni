@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\bin\Debug\Problem_5.Longest_Non_Decreasing_Subsequence.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\bin\Debug\Problem_5.Longest_Non_Decreasing_Subsequence.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\bin\Debug\Problem_5.Longest_Non_Decreasing_Subsequence.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\obj\Debug\Problem 5.  Longest Non-Decreasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\obj\Debug\Problem_5.Longest_Non_Decreasing_Subsequence.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 5.  Longest Non-Decreasing Subsequence\obj\Debug\Problem_5.Longest_Non_Decreasing_Subsequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\obj\Debug\Problem 9. Matrix of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.pdb

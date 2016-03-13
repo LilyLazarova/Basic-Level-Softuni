@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\bin\Debug\Exam_Problem_4.Magic_Strings.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\bin\Debug\Exam_Problem_4.Magic_Strings.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\bin\Debug\Exam_Problem_4.Magic_Strings.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\obj\Debug\Exam Problem 4.  Magic Strings.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\obj\Debug\Exam_Problem_4.Magic_Strings.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 4.  Magic Strings\obj\Debug\Exam_Problem_4.Magic_Strings.pdb

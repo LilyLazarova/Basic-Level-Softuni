@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\bin\Debug\Problem_12.Randomize_the_Numbers_1_N.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\bin\Debug\Problem_12.Randomize_the_Numbers_1_N.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\bin\Debug\Problem_12.Randomize_the_Numbers_1_N.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\obj\Debug\Problem_12.Randomize_the_Numbers_1_N.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\obj\Debug\Problem_12.Randomize_the_Numbers_1_N.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 12. Randomize the Numbers 1…N\obj\Debug\Problem 12. Randomize the Numbers 1…N.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\obj\Debug\Problem 4. Multiplication Sign.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 4. Multiplication Sign\obj\Debug\Problem_4.Multiplication_Sign.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\bin\Debug\Problem_11.Number_as_Words.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\bin\Debug\Problem_11.Number_as_Words.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\bin\Debug\Problem_11.Number_as_Words.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\obj\Debug\Problem 11. Number as Words.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\obj\Debug\Problem_11.Number_as_Words.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 11. Number as Words\obj\Debug\Problem_11.Number_as_Words.pdb

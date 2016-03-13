@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\EXAM\Problem 3\obj\Debug\Problem 3.pdb

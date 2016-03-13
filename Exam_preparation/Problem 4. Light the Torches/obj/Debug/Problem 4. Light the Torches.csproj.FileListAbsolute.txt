@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\bin\Debug\Problem_4.Light_the_Torches.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\bin\Debug\Problem_4.Light_the_Torches.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\bin\Debug\Problem_4.Light_the_Torches.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\obj\Debug\Problem 4. Light the Torches.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\obj\Debug\Problem_4.Light_the_Torches.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 4. Light the Torches\obj\Debug\Problem_4.Light_the_Torches.pdb

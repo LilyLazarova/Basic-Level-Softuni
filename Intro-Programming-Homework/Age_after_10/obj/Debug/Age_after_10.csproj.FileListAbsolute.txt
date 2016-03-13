@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\bin\Debug\Age_after_10.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\bin\Debug\Age_after_10.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\bin\Debug\Age_after_10.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\obj\Debug\Age_after_10.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\obj\Debug\Age_after_10.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Age_after_10\obj\Debug\Age_after_10.pdb

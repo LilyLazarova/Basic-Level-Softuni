@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\obj\Debug\Problem 7. Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\bin\Debug\Exam_Problem_13.Triangle.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\bin\Debug\Exam_Problem_13.Triangle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\bin\Debug\Exam_Problem_13.Triangle.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\obj\Debug\Exam Problem 13. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\obj\Debug\Exam_Problem_13.Triangle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 13. Triangle\obj\Debug\Exam_Problem_13.Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\bin\Debug\Problem_2.Sorting_Numbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\bin\Debug\Problem_2.Sorting_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\bin\Debug\Problem_2.Sorting_Numbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\obj\Debug\Problem 2. Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\obj\Debug\Problem_2.Sorting_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 2. Sorting Numbers\obj\Debug\Problem_2.Sorting_Numbers.pdb

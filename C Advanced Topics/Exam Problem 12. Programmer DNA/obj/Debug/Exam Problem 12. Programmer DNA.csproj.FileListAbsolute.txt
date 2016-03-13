@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\bin\Debug\Exam_Problem_12.Programmer_DNA.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\bin\Debug\Exam_Problem_12.Programmer_DNA.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\bin\Debug\Exam_Problem_12.Programmer_DNA.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\obj\Debug\Exam Problem 12. Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\obj\Debug\Exam_Problem_12.Programmer_DNA.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Exam Problem 12. Programmer DNA\obj\Debug\Exam_Problem_12.Programmer_DNA.pdb

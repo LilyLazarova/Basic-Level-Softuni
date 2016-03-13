@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\obj\Debug\Problem 1. Exchange If Greater.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.pdb

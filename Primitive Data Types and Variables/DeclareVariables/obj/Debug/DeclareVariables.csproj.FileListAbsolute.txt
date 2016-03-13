@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\DeclareVariables\obj\Debug\DeclareVariables.pdb

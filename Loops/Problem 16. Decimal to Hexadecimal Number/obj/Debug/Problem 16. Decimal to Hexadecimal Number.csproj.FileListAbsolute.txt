@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem 16. Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb

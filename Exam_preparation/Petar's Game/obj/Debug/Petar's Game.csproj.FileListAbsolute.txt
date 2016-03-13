@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\bin\Debug\Petar's Game.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\bin\Debug\Petar's Game.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\bin\Debug\Petar's Game.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\obj\Debug\Petar's Game.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\obj\Debug\Petar's Game.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Petar's Game\obj\Debug\Petar's Game.pdb

@@ -1,0 +1,1 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 4 – Nine-Digit Magic Numbers\bin\Debug\ExamProblem 4 – Nine-Digit Magic Numbers.exe.config

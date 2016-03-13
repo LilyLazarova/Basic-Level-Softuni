@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\bin\Debug\Exam_Problem_18.OddEven_Sum.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\bin\Debug\Exam_Problem_18.OddEven_Sum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\bin\Debug\Exam_Problem_18.OddEven_Sum.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\obj\Debug\Exam Problem 18. OddEven Sum.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\obj\Debug\Exam_Problem_18.OddEven_Sum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 18. OddEven Sum\obj\Debug\Exam_Problem_18.OddEven_Sum.pdb

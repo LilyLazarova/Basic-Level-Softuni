@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem14 Print the ASCTable\bin\Debug\Problem14 Print the ASCTable.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem14 Print the ASCTable\bin\Debug\Problem14 Print the ASCTable.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem14 Print the ASCTable\bin\Debug\Problem14 Print the ASCTable.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem14 Print the ASCTable\obj\Debug\Problem14 Print the ASCTable.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem14 Print the ASCTable\obj\Debug\Problem14 Print the ASCTable.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\obj\Debug\Problem 3. Circle Perimeter and Area.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\bin\Debug\Exam_Problem_5.__Catch_the_Bits.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\bin\Debug\Exam_Problem_5.__Catch_the_Bits.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\bin\Debug\Exam_Problem_5.__Catch_the_Bits.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\obj\Debug\Exam Problem 5. – Catch the Bits.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\obj\Debug\Exam_Problem_5.__Catch_the_Bits.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 5. – Catch the Bits\obj\Debug\Exam_Problem_5.__Catch_the_Bits.pdb

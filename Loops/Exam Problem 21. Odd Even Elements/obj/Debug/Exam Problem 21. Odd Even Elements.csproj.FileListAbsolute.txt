@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\bin\Debug\Exam_Problem_21.Odd_Even_Elements.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\bin\Debug\Exam_Problem_21.Odd_Even_Elements.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\bin\Debug\Exam_Problem_21.Odd_Even_Elements.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\obj\Debug\Exam Problem 21. Odd Even Elements.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\obj\Debug\Exam_Problem_21.Odd_Even_Elements.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Exam Problem 21. Odd Even Elements\obj\Debug\Exam_Problem_21.Odd_Even_Elements.pdb

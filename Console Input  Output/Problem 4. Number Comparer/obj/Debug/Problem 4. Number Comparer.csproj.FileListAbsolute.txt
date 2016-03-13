@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\obj\Debug\Problem 4. Number Comparer.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.pdb

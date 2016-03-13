@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\bin\Debug\Exam_Problem_17.Volleyball.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\bin\Debug\Exam_Problem_17.Volleyball.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\bin\Debug\Exam_Problem_17.Volleyball.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\obj\Debug\Exam Problem 17.  Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\obj\Debug\Exam_Problem_17.Volleyball.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Exam Problem 17.  Volleyball\obj\Debug\Exam_Problem_17.Volleyball.pdb

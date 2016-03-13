@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\obj\Debug\Problem 2. Print Company Information.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.pdb

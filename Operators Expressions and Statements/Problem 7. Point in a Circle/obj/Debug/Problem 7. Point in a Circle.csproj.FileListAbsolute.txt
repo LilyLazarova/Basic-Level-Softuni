@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 7. Point in a Circle\obj\Debug\Problem 7. Point in a Circle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\bin\Debug\PetarGame.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\bin\Debug\PetarGame.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\bin\Debug\PetarGame.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\obj\Debug\PetarGame.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\obj\Debug\PetarGame.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\PetarGame\obj\Debug\PetarGame.pdb

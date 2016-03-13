@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\obj\Debug\Problem 9. Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

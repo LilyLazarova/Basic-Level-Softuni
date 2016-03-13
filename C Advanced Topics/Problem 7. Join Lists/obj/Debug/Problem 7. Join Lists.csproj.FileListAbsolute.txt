@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\bin\Debug\Problem_7.Join_Lists.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\bin\Debug\Problem_7.Join_Lists.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\bin\Debug\Problem_7.Join_Lists.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\obj\Debug\Problem 7. Join Lists.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\obj\Debug\Problem_7.Join_Lists.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\C Advanced Topics\Problem 7. Join Lists\obj\Debug\Problem_7.Join_Lists.pdb

@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\obj\Debug\Problem 8. Prime Number Check.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb

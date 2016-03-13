@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\obj\Debug\Problem 17. Calculate GCD.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 17. Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.pdb

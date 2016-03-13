@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\bin\Debug\Exam_Problem_14.Pairs.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\bin\Debug\Exam_Problem_14.Pairs.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\bin\Debug\Exam_Problem_14.Pairs.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\obj\Debug\Exam Problem 14. Pairs.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\obj\Debug\Exam_Problem_14.Pairs.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 14. Pairs\obj\Debug\Exam_Problem_14.Pairs.pdb

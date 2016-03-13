@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\bin\Debug\Problem_2.Detective_Boev.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\bin\Debug\Problem_2.Detective_Boev.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\bin\Debug\Problem_2.Detective_Boev.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\obj\Debug\Problem 2. Detective Boev.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\obj\Debug\Problem_2.Detective_Boev.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Problem 2. Detective Boev\obj\Debug\Problem_2.Detective_Boev.pdb

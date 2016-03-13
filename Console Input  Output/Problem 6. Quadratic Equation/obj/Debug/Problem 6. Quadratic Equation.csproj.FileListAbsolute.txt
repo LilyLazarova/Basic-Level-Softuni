@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\obj\Debug\Problem 6. Quadratic Equation.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.pdb

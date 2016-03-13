@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\bin\Debug\ExamProblem 2 – Half Sum.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\obj\Debug\ExamProblem 2 – Half Sum.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\bin\Debug\ExamProblem 2 – Half Sum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\bin\Debug\ExamProblem 2 – Half Sum.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\obj\Debug\ExamProblem 2 – Half Sum.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\ExamProblem 2 – Half Sum\obj\Debug\ExamProblem 2 – Half Sum.pdb

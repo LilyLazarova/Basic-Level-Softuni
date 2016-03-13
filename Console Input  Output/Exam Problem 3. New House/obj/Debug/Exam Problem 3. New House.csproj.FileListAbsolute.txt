@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\bin\Debug\Exam_Problem_3.New_House.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\bin\Debug\Exam_Problem_3.New_House.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\bin\Debug\Exam_Problem_3.New_House.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\obj\Debug\Exam Problem 3. New House.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\obj\Debug\Exam_Problem_3.New_House.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Console Input  Output\Console Input _Output\Exam Problem 3. New House\obj\Debug\Exam_Problem_3.New_House.pdb

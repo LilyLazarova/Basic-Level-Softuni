@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\bin\Debug\Exam_Problem_17.Bit_Killer.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\bin\Debug\Exam_Problem_17.Bit_Killer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\bin\Debug\Exam_Problem_17.Bit_Killer.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\obj\Debug\Exam Problem 17. Bit Killer.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\obj\Debug\Exam_Problem_17.Bit_Killer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Conditional-Statements\Exam Problem 17. Bit Killer\obj\Debug\Exam_Problem_17.Bit_Killer.pdb

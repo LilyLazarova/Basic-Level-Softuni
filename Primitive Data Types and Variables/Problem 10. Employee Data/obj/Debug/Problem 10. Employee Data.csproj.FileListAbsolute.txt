@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem 10. Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Primitive Data Types and Variables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.pdb

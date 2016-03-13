@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\obj\Debug\Problem 8. Catalan Numbers.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\obj\Debug\Problem_8.Catalan_Numbers.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 8. Catalan Numbers\obj\Debug\Problem_8.Catalan_Numbers.pdb

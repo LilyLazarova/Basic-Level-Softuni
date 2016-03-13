@@ -1,0 +1,5 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\bin\Debug\Problem_12.Extract_Bit_from_Integer.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Operators Expressions and Statements\Problem 12. Extract Bit from Integer\obj\Debug\Problem_12.Extract_Bit_from_Integer.pdb

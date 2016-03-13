@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\bin\Debug\Problem_19.Spiral_Matrix.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\bin\Debug\Problem_19.Spiral_Matrix.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\bin\Debug\Problem_19.Spiral_Matrix.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\obj\Debug\Problem 19. Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\obj\Debug\Problem_19.Spiral_Matrix.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Loops\Problem 19. Spiral Matrix\obj\Debug\Problem_19.Spiral_Matrix.pdb

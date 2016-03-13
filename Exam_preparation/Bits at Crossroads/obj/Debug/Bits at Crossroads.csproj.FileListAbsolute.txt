@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\bin\Debug\Bits at Crossroads.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\bin\Debug\Bits at Crossroads.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\bin\Debug\Bits at Crossroads.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\obj\Debug\Bits at Crossroads.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\obj\Debug\Bits at Crossroads.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Bits at Crossroads\obj\Debug\Bits at Crossroads.pdb

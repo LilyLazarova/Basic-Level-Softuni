@@ -1,0 +1,3 @@
+.NET framework is a software framework primarily for Microsoft Windows. It includes a large library & provides language interoperability across several programming languages.
+.NET is a library of code that .NET languages, such as C# can talk to.But it isn't just a library, but also a runtime for executing applications.
+C# is a programing language developed by Microsoft and programms written on C# run on the .NET framework.

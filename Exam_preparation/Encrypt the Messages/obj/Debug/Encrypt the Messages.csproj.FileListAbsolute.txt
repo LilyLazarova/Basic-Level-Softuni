@@ -1,0 +1,6 @@
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\bin\Debug\Encrypt the Messages.exe.config
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\bin\Debug\Encrypt the Messages.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\bin\Debug\Encrypt the Messages.pdb
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\obj\Debug\Encrypt the Messages.csprojResolveAssemblyReference.cache
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\obj\Debug\Encrypt the Messages.exe
+C:\Users\lazarovl\Desktop\C#\Csharp basic\Solution3\Encrypt the Messages\obj\Debug\Encrypt the Messages.pdb
